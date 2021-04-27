@@ -4,6 +4,8 @@ The Axial Age dataset tracks a variety of sociopolitical norms and their develop
 ## So What Was the Axial Age?¶
 The Axial Age (also known as the Axis Age) is the era when the great intellectual, philosophical, and religious systems that came to form subsequent human civilization and culture appeared, much of the inhabited world at about the same time. The period during which most of the main religious and spiritual traditions emerged.
 
+## Dataset
+
 For the analysis, I have used a relatively very small dataset, Axial Age Dataset, by Seshat: Global History Databank, "a large, multidisciplinary team of evolutionary scientists, historians, anthropologists, archaeologists, economists, and other social scientists from around the world."
 
 This research employed data from the Seshat Databank (seshatdatabank.info) under Creative Commons Attribution Non-Commercial (CC By-NC SA) licensing.
